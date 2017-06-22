@@ -1,6 +1,7 @@
 package singleton.test;
 
 /**
+ * oh
  * 双重检查锁定
  *
  * Created by Administrator on 2017/6/22.
